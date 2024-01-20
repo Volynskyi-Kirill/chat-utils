@@ -1,6 +1,6 @@
 {
   "name": "chat-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "MESSAGE_EVENTS - константы для мс",
   "main": "./dist/constants.js",
   "module": "./dist/constants.mjs",
@@ -8,6 +8,10 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Volynskyi-Kirill/chat-utils.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsup"
