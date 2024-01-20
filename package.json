@@ -1,6 +1,6 @@
 {
   "name": "chat-utils",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "MESSAGE_EVENTS - константы для мс",
   "main": "./dist/constants.js",
   "module": "./dist/constants.mjs",
